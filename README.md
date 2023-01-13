@@ -1,2 +1,2 @@
 # HackerRank-c-
-HackerRank medium questions
+HackerRank Questions (medium and easy )
