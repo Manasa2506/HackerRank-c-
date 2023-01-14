@@ -1,2 +1,3 @@
-# HackerRank-c-
+# HackerRank-cpp
+
 HackerRank Questions (medium and easy )
