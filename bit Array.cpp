@@ -11,7 +11,6 @@ int main() {
     cin>>n>>s>>p>>q;
     unsigned long long i, a0=s, a=s, ap=0, k=0, kt=0;
     v=pow(2,31);
-    
      
     for(i=0; i<n; i++){
         // a=(a*p+q)&v;
